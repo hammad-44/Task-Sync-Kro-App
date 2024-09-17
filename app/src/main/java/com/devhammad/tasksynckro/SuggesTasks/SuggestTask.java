@@ -100,11 +100,11 @@ public class SuggestTask extends AppCompatActivity {
 
         return new String[]{currentDate, dayOfWeek, month, dayOfMonth};
     }
-
+    //GET YOUR API KEY FROM GOOGLE GEMINI
     // Method to fetch suggested tasks based on location status
     private void fetchSuggestedTasks() {
         progressBar.setVisibility(View.VISIBLE);
-        GenerativeModel gm = new GenerativeModel("gemini-1.5-flash", "AIzaSyC7d7_gsJNvSKw2zJH9S5Xa3dfbrio4g0U");
+        GenerativeModel gm = new GenerativeModel("gemini-1.5-flash", "YOUR_API_KEY");
         GenerativeModelFutures model = GenerativeModelFutures.from(gm);
 
         String prompt = createPrompt(); // Generate prompt based on location
