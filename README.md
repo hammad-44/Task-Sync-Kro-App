@@ -1,6 +1,5 @@
-![WhatsApp Image 2024-09-10 at 23 09 35_08cc9850](https://github.com/user-attachments/assets/5862d425-99fb-4ba0-a1e3-c03c26c18f3a)# TaskSyncKro
+# TaskSyncKro
 
-![logo](https://github.com/user-attachments/assets/21296932-6e49-40b7-be18-26d64f84a811)
 
 **TaskSyncKro** is a task management application designed to help users manage their tasks effortlessly across devices. With support for both online and offline task handling, TaskSyncKro allows users to stay productive with real-time task syncing via Firebase and offline support using Room Database.
 
@@ -15,7 +14,7 @@
 - 🎨 **Intuitive UI**: Simple and modern design for easy task management.
 - 🔔 **Background Alarms**: Receive reminders for tasks even when the app is in the background.
   
-![WhatsApp Image 2024-09-10 at 23 09 35_8807c9af](https://github.com/user-attachments/assets/5e2bd052-e383-4c1b-9bc3-f64ab145023b)
+![WhatsApp Image 2024-09-10 at 23 09 35_8807c9af](https://github.com/user-attachments/assets/5e2bd052-e383-4c1b-9bc3-f64ab145023b|widht=100)
 
 
 ## Installation
