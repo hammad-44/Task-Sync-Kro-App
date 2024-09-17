@@ -14,7 +14,7 @@
 - 🎨 **Intuitive UI**: Simple and modern design for easy task management.
 - 🔔 **Background Alarms**: Receive reminders for tasks even when the app is in the background.
   
-![WhatsApp Image 2024-09-10 at 23 09 35_8807c9af](https://github.com/user-attachments/assets/5e2bd052-e383-4c1b-9bc3-f64ab145023b|widht=100)
+<img src="https://github.com/user-attachments/assets/5e2bd052-e383-4c1b-9bc3-f64ab145023b" alt="TaskSyncKro Image" width="400" />
 
 
 ## Installation
