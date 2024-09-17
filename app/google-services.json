@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "139063913123",
+    "firebase_url": "https://task-sync-kro-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "task-sync-kro",
+    "storage_bucket": "task-sync-kro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139063913123:android:d1e07ba1dcba9a85de6d16",
+        "android_client_info": {
+          "package_name": "com.devhammad.tasksynckro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139063913123-tcagl15tcsk7q6vk87509vs9t44spfh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS4b7DKcmaYFX4LJxnLYouR1CCcQcJZ9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139063913123-tcagl15tcsk7q6vk87509vs9t44spfh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
